@@ -1,0 +1,2 @@
+webpackJsonp([0xb498155adc98b800],{"./node_modules/json-loader/index.js!./.cache/json/categories-week.json":function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/first-week"},excerpt:"whew!!! My first week of school is done. Love Clover",timeToRead:1,frontmatter:{title:"First week",tags:["by Clover"],cover:"/logos/school.jpg",date:"18/08/2017"}}}]}},pathContext:{category:"week"}}}});
+//# sourceMappingURL=path---categories-week-68c202b4bfc8607075ca.js.map
