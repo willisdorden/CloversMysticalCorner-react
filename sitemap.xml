@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/first-week</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/an-introduction-to-clovers-mystical-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/tags/by-clover/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/categories/week/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/categories/intro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/clovermysticalcorner/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/first-week</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/an-introduction-to-clovers-mystical-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/tags/by-clover/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/categories/week/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/categories/intro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://git.heroku.com/thawing-lowlands-55942.git/cloversmysticalcorner/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
