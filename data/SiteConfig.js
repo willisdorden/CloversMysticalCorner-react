@@ -4,7 +4,7 @@ module.exports = {
   siteTitleAlt: "Clover's Mystical Corner", // Alternative site title for SEO.
   siteLogo: "/logos/cloversC.png", // Logo used for SEO and manifest.
   siteUrl: "https://git.heroku.com/thawing-lowlands-55942.git", // Domain of your website without pathPrefix.
-  pathPrefix:"/cloversmysticalcorner", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  pathPrefix:"/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   siteDescription: "A Blog for my 4th grade year", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
@@ -20,4 +20,4 @@ module.exports = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
 
   copyright: "Copyright © 2017. Clover" // Copyright string for the footer of the website and RSS feed.
-}
+};
