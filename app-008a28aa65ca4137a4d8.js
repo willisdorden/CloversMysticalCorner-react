@@ -513,7 +513,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./.cache/layouts/index.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./.cache/layouts/index.js") })
 	        }
 	      });
 	     }
@@ -653,8 +653,8 @@ webpackJsonp([15178676390636814000],{
 	  addPagesArray: function addPagesArray(newPages) {
 	    pages = newPages;
 	    var pathPrefix = "";
-	    if (false) {
-	      pathPrefix = __PATH_PREFIX__;
+	    if (true) {
+	      pathPrefix = ("/CloversMysticalCorner-react");
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
@@ -1236,8 +1236,8 @@ webpackJsonp([15178676390636814000],{
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var pathPrefix = "/";
-	if ((undefined)) {
-	  pathPrefix = ("") + "/";
+	if (true) {
+	  pathPrefix = ("/CloversMysticalCorner-react") + "/";
 	}
 	
 	if ("serviceWorker" in navigator) {
@@ -2124,7 +2124,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/about.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/about.jsx") })
 	        }
 	      });
 	     }
@@ -2145,7 +2145,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/index.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/index.jsx") })
 	        }
 	      });
 	     }
@@ -2166,7 +2166,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/category.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/category.jsx") })
 	        }
 	      });
 	     }
@@ -2187,7 +2187,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/post.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/post.jsx") })
 	        }
 	      });
 	     }
@@ -2208,7 +2208,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/tag.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/tag.jsx") })
 	        }
 	      });
 	     }
@@ -2217,4 +2217,4 @@ webpackJsonp([15178676390636814000],{
 /***/ })
 
 });
-//# sourceMappingURL=app-27571a650779271fa07a.js.map
+//# sourceMappingURL=app-008a28aa65ca4137a4d8.js.map

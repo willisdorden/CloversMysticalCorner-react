@@ -73,14 +73,14 @@ webpackJsonp([15178676390636814000],{
 	  "component---src-templates-post-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-templates-post-jsx!./src/templates/post.jsx"),
 	  "component---src-templates-tag-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-templates-tag-jsx!./src/templates/tag.jsx"),
 	  "component---src-templates-category-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-templates-category-jsx!./src/templates/category.jsx"),
-	  "component---src-pages-index-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-jsx!./src/pages/index.jsx"),
-	  "component---src-pages-about-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-about-jsx!./src/pages/about.jsx")
+	  "component---src-pages-about-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-about-jsx!./src/pages/about.jsx"),
+	  "component---src-pages-index-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-jsx!./src/pages/index.jsx")
 	};
 	
 	exports.json = (_exports$json = {
 	  "layout-index.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"),
 	  "offline-plugin-app-shell-fallback.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---offline-plugin-app-shell-fallback!./.cache/json/offline-plugin-app-shell-fallback.json")
-	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["first-week.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---first-week!./.cache/json/first-week.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["an-introduction-to-clovers-mystical-blog.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---an-introduction-to-clovers-mystical-blog!./.cache/json/an-introduction-to-clovers-mystical-blog.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-by-clover.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-by-clover!./.cache/json/tags-by-clover.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["categories-week.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---categories-week!./.cache/json/categories-week.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["categories-intro.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---categories-intro!./.cache/json/categories-intro.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["about.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---about!./.cache/json/about.json"), _exports$json);
+	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["an-introduction-to-clovers-mystical-blog.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---an-introduction-to-clovers-mystical-blog!./.cache/json/an-introduction-to-clovers-mystical-blog.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["first-week.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---first-week!./.cache/json/first-week.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-by-clover.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-by-clover!./.cache/json/tags-by-clover.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["categories-intro.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---categories-intro!./.cache/json/categories-intro.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["categories-week.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---categories-week!./.cache/json/categories-week.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["about.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---about!./.cache/json/about.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json);
 	
 	exports.layouts = {
 	  "component---src-layouts-index-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-layouts-index-jsx!./.cache/layouts/index.js")
@@ -513,7 +513,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./.cache/layouts/index.js") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./.cache/layouts/index.js") })
 	        }
 	      });
 	     }
@@ -653,8 +653,8 @@ webpackJsonp([15178676390636814000],{
 	  addPagesArray: function addPagesArray(newPages) {
 	    pages = newPages;
 	    var pathPrefix = "";
-	    if (true) {
-	      pathPrefix = ("/cloversmysticalcorner");
+	    if (false) {
+	      pathPrefix = __PATH_PREFIX__;
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
@@ -898,15 +898,15 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-post-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-jsx",
-			"jsonName": "first-week.json",
-			"path": "/first-week"
+			"jsonName": "an-introduction-to-clovers-mystical-blog.json",
+			"path": "/an-introduction-to-clovers-mystical-blog"
 		},
 		{
 			"componentChunkName": "component---src-templates-post-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-jsx",
-			"jsonName": "an-introduction-to-clovers-mystical-blog.json",
-			"path": "/an-introduction-to-clovers-mystical-blog"
+			"jsonName": "first-week.json",
+			"path": "/first-week"
 		},
 		{
 			"componentChunkName": "component---src-templates-tag-jsx",
@@ -919,22 +919,15 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-category-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-jsx",
-			"jsonName": "categories-week.json",
-			"path": "/categories/week/"
+			"jsonName": "categories-intro.json",
+			"path": "/categories/intro/"
 		},
 		{
 			"componentChunkName": "component---src-templates-category-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-jsx",
-			"jsonName": "categories-intro.json",
-			"path": "/categories/intro/"
-		},
-		{
-			"componentChunkName": "component---src-pages-index-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-jsx",
-			"jsonName": "index.json",
-			"path": "/"
+			"jsonName": "categories-week.json",
+			"path": "/categories/week/"
 		},
 		{
 			"componentChunkName": "component---src-pages-about-jsx",
@@ -942,6 +935,13 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-jsx",
 			"jsonName": "about.json",
 			"path": "/about/"
+		},
+		{
+			"componentChunkName": "component---src-pages-index-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-jsx",
+			"jsonName": "index.json",
+			"path": "/"
 		}
 	];
 
@@ -1236,8 +1236,8 @@ webpackJsonp([15178676390636814000],{
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var pathPrefix = "/";
-	if (true) {
-	  pathPrefix = ("/cloversmysticalcorner") + "/";
+	if ((undefined)) {
+	  pathPrefix = ("") + "/";
 	}
 	
 	if ("serviceWorker" in navigator) {
@@ -2124,7 +2124,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/about.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/about.jsx") })
 	        }
 	      });
 	     }
@@ -2145,7 +2145,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/index.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/index.jsx") })
 	        }
 	      });
 	     }
@@ -2166,7 +2166,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/category.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/category.jsx") })
 	        }
 	      });
 	     }
@@ -2187,7 +2187,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/post.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/post.jsx") })
 	        }
 	      });
 	     }
@@ -2208,7 +2208,7 @@ webpackJsonp([15178676390636814000],{
 	          console.log('bundle loading error', error)
 	          cb(true)
 	        } else {
-	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/Cloversblog/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/tag.jsx") })
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-lodash/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/admin/Desktop/projects/CloversBlog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/templates/tag.jsx") })
 	        }
 	      });
 	     }
@@ -2217,4 +2217,4 @@ webpackJsonp([15178676390636814000],{
 /***/ })
 
 });
-//# sourceMappingURL=app-5437ed928350cb93ab02.js.map
+//# sourceMappingURL=app-251fbbcb7fa57c84ea03.js.map
