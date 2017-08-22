@@ -3,8 +3,8 @@ module.exports = {
   siteTitle: "Clover's Mystical Corner", // Site title.
   siteTitleAlt: "Clover's Mystical Corner", // Alternative site title for SEO.
   siteLogo: "/logos/cloversC.png", // Logo used for SEO and manifest.
-  siteUrl: "http://www.cloversmysticalcorner.com", // Domain of your website without pathPrefix.
-  pathPrefix:"/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  siteUrl: "https://willisdorden.github.io/CloversMysticalCorner-react", // Domain of your website without pathPrefix.
+  pathPrefix:"/CloversMysticalCorner-react", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   siteDescription: "A Blog for my 4th grade year", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
